@@ -1,7 +1,7 @@
 {
   "name": "stephkp/hl-instagram-importer",
-  "description": "Importer for HL from Instagram content.",
-  "homepage": "https://github.com/stephkp/hl-instagram-monitor",
+  "description": "Imports Instagram Posts",
+  "homepage": "https://github.com/kingandpartners/wordpress-instagram-monitor",
   "license": "This software is NOT to be distributed, but can be INCLUDED in WP themes: Premium or Contracted.",
   "authors": [
     {
