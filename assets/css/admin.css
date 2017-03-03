@@ -1,0 +1,6 @@
+.buttons-wrapper a {
+  display: inline-block;
+}
+.buttons-wrapper a:last-child {
+  margin-left: 15px;
+}
